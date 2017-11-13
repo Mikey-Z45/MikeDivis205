@@ -6,4 +6,5 @@
 # Description: intro to git
 # Python 3.6.0
 
+# new changes will show up in the command console
 print("Hello Git!!")
